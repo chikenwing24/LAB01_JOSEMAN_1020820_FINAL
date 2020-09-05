@@ -1,0 +1,48 @@
+﻿  MyForm.cpp
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1333,37): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1386,37): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1593,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1604,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1614,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1625,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1636,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1646,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1657,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1668,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1686,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1713,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1735,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1757,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1779,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1875,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1901,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1925,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1949,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1973,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1997,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2021,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2045,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2069,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2094,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2118,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2142,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2166,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2190,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2215,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2240,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2265,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2289,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2313,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2337,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2361,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2385,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2409,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2434,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2458,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2482,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2506,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(2530,10): warning C4101: 'i': variable local sin referencia
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1159): warning C4715: 'Lab1JOSEMAN1020820::MyForm::multipliacionPorSuma': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\MyForm.h(1570): warning C4700: se utilizó la variable local 'inicial' sin inicializar
+  Multiplicación.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab1_JOSEMAN_1020820.vcxproj -> C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\x64\Debug\Lab1_JOSEMAN_1020820.exe

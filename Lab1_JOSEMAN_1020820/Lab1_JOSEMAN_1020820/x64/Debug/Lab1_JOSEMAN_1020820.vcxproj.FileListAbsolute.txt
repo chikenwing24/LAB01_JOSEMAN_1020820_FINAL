@@ -1,0 +1,6 @@
+C:\Users\jmanc\OneDrive\Escritorio\C++ URL\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\x64\Debug\Lab1_JOSEMAN_1020820.vcxprojAssemblyReference.cache
+C:\Users\jmanc\OneDrive\Escritorio\C++ URL\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\x64\Debug\Lab1JOSEMAN1020820.MyForm.resources
+C:\Users\jmanc\OneDrive\Escritorio\C++ URL\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\x64\Debug\Lab1_JOSEMAN_1020820.vcxproj.GenerateResource.cache
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\x64\Debug\Lab1_JOSEMAN_1020820.vcxprojAssemblyReference.cache
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\x64\Debug\Lab1JOSEMAN1020820.MyForm.resources
+C:\Users\jmanc\OneDrive\Escritorio\LAB01_JOSEMAN_1020820_FINAL-master\Lab1_JOSEMAN_1020820\Lab1_JOSEMAN_1020820\x64\Debug\Lab1_JOSEMAN_1020820.vcxproj.GenerateResource.cache
